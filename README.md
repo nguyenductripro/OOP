@@ -1,2 +1,1 @@
-ngày 2/10/24:
-class sinhvien và các thuộc tính cơ bản
+https://docs.google.com/document/d/1fij5RB2HZmBsVHM99joJThgd9j-myEjWtZNTs_L_-Sw/edit?usp=sharing
